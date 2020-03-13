@@ -1,0 +1,5 @@
+# com.jobikado.devconcept
+Unter dem Dev-Repo werden Entwicklungen zum Projekt: Jobikado veröffentlicht.
+Darunter werden zunächst konzeptionelle Ausgestaltungen präsentiert und die Archtiktur und Weiterentwicklung der zugrunde liegenden Plattform dokumentiert.
+
+Des Weiteren wird ein Prototyp entwickelt, der die Idee erfahrbar macht. Dabei werden auch weitere Design-Ressourcen hinzugefügt. Neben der Demo wird die Architekur mittels Modeling Software visualisiert und verfeinert. Schnittstellen und Komponenten wie Services runden die Beschreibung des Modells ab. Die Implementierung erfolgt danach und mittels weitere Revisionen iterativ verbessert.
